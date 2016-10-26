@@ -1,13 +1,13 @@
 Pod::Spec.new do |s|  
   s.name             = 'YTXChatUI'  
-  s.version          = '1.0.0'  
+  s.version          = '0.0.1'  
   s.summary          = 'A marquee view used on iOS.'  
   s.description      = 'adfafdadfd' 
-  s.homepage         = 'https://github.com/zhuchong79/ys-pod-spec.git'  
+  s.homepage         = 'https://github.com/zhuchong79/YTXChatUI.git'  
   # s.screenshots      = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'  
   s.license          = 'MIT'  
   s.author           = { 'hxl' => 'xilong.huang@baidao.com' }  
-  s.source           = { :git => 'https://github.com/zhuchong79/ys-pod-spec.git', :tag => s.version.to_s }  
+  s.source           = { :git => 'https://github.com/zhuchong79/YTXChatUI.git', :tag => s.version.to_s }  
   # s.social_media_url = 'https://twitter.com/NAME'  
   
   s.platform     = :ios, '4.3'  
